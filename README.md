@@ -5,4 +5,4 @@
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
 - [x] Push your progress to GitHub!
 
-<img src="https://i.imgur.com/ikHO0e2.gif" width="200" height="400" />  
+<img src="VID-20251202-WA0009-ezgif.com-video-to-gif-converter.gif" width="200" height="400" />  
